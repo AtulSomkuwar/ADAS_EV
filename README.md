@@ -14,7 +14,10 @@
 # Random Forest 
 ## Feature Importance
 <img width="801" height="450" alt="Screenshot 2026-03-29 110228" src="https://github.com/user-attachments/assets/cad53e6d-15b4-437a-b868-4490bbcf83d9" />
+
+
 ## Accuracy: 0.9985
+
 ## Confusion Matrix
 <img width="752" height="590" alt="Screenshot 2026-03-29 110246" src="https://github.com/user-attachments/assets/d708d63e-c68c-4d51-b5db-1d2eb641ca5f" />
 
