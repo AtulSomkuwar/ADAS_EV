@@ -24,3 +24,13 @@
 ## ROC Curve
 <img width="691" height="546" alt="Screenshot 2026-03-29 111023" src="https://github.com/user-attachments/assets/2c0463da-fddb-498b-9eaf-1b5d45d2c749" />
 
+# Decision Tree
+
+##  Accuracy: 0.998
+## Confusion Matrix
+<img width="690" height="544" alt="Screenshot 2026-03-29 111353" src="https://github.com/user-attachments/assets/aa2d2473-f654-446c-ab6d-8d1f8f872d3d" />
+
+## ROC Curve
+<img width="750" height="588" alt="Screenshot 2026-03-29 111329" src="https://github.com/user-attachments/assets/3f4d2841-715f-4dd6-8636-0dd940f91cf7" />
+
+
