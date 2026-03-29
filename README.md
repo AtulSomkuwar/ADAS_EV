@@ -28,9 +28,19 @@
 
 ##  Accuracy: 0.998
 ## Confusion Matrix
-<img width="690" height="544" alt="Screenshot 2026-03-29 111353" src="https://github.com/user-attachments/assets/aa2d2473-f654-446c-ab6d-8d1f8f872d3d" />
+<img width="750" height="588" alt="Screenshot 2026-03-29 111329" src="https://github.com/user-attachments/assets/3f4d2841-715f-4dd6-8636-0dd940f91cf7" />
 
 ## ROC Curve
-<img width="750" height="588" alt="Screenshot 2026-03-29 111329" src="https://github.com/user-attachments/assets/3f4d2841-715f-4dd6-8636-0dd940f91cf7" />
+<img width="690" height="544" alt="Screenshot 2026-03-29 111353" src="https://github.com/user-attachments/assets/aa2d2473-f654-446c-ab6d-8d1f8f872d3d" />
+
+# Logistic Regression
+
+## Accuracy: 0.7747
+## Confusion Matrix
+<img width="789" height="590" alt="Screenshot 2026-03-29 111658" src="https://github.com/user-attachments/assets/4794300b-e4f8-4f77-8be6-4a586c7cd6ff" />
+
+## ROC
+<img width="752" height="585" alt="Screenshot 2026-03-29 111627" src="https://github.com/user-attachments/assets/552f1962-f251-4441-87b1-848ea6ce26f4" />
+
 
 
