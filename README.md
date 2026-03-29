@@ -8,5 +8,9 @@
        'ADAS_output'.
 
  ## Dataset size (10000,13)
- <img width="801" height="450" alt="Screenshot 2026-03-29 110228" src="https://github.com/user-attachments/assets/cad53e6d-15b4-437a-b868-4490bbcf83d9" />
+ ## Correlation Matrix
 <img width="758" height="660" alt="Screenshot 2026-03-29 110205" src="https://github.com/user-attachments/assets/931a75b4-434d-4910-87a0-df013818a207" />
+
+### Random Forest 
+## Feature Importance
+<img width="801" height="450" alt="Screenshot 2026-03-29 110228" src="https://github.com/user-attachments/assets/cad53e6d-15b4-437a-b868-4490bbcf83d9" />
