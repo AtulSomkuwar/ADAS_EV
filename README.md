@@ -37,10 +37,19 @@
 
 ## Accuracy: 0.7747
 ## Confusion Matrix
-<img width="789" height="590" alt="Screenshot 2026-03-29 111658" src="https://github.com/user-attachments/assets/4794300b-e4f8-4f77-8be6-4a586c7cd6ff" />
+<img width="752" height="585" alt="Screenshot 2026-03-29 111627" src="https://github.com/user-attachments/assets/552f1962-f251-4441-87b1-848ea6ce26f4" />
 
 ## ROC
-<img width="752" height="585" alt="Screenshot 2026-03-29 111627" src="https://github.com/user-attachments/assets/552f1962-f251-4441-87b1-848ea6ce26f4" />
+<img width="789" height="590" alt="Screenshot 2026-03-29 111658" src="https://github.com/user-attachments/assets/4794300b-e4f8-4f77-8be6-4a586c7cd6ff" />
+
+# XGBoost
+##  Accuracy: 0.989
+
+# KNN
+## Best K = 11 with Accuracy = 0.6510
+<img width="699" height="472" alt="Screenshot 2026-03-29 111941" src="https://github.com/user-attachments/assets/7ad3b9e0-eb4d-4f50-8a8f-bfc8de9b8798" />
+<img width="243" height="350" alt="Screenshot 2026-03-29 111928" src="https://github.com/user-attachments/assets/c2336818-b18e-41bb-bbc5-d6f29bce1f38" />
+
 
 
 
